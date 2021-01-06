@@ -1,0 +1,7 @@
+.create-sale_position{
+  display: flex;
+  align-items: center;
+  height: 20%;
+  justify-content: space-evenly;
+  background-color: rgb(241, 253, 250);
+}

@@ -1,0 +1,13 @@
+.common-mode_position{
+  border: 1px solid;
+  display: flex;
+  width: 1830px;
+}
+
+.left-part_position{
+  border: 1px solid;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  height: 880px;
+}

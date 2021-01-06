@@ -1,0 +1,2 @@
+export const INDEX_USER = 'INDEX_USER'
+export const SET_CURRENT_USER = 'SET_CURRENT_USER'

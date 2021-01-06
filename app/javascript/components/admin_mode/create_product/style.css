@@ -1,0 +1,18 @@
+.create-sale_position{
+  display: flex;
+  align-items: center;
+  height: 20%;
+  justify-content: space-evenly;
+  background-color: rgb(241, 253, 250);
+}
+
+.create-product{
+  display: flex;
+  flex-direction: column;
+}
+
+.create-product-row{
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+}

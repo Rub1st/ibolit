@@ -1,0 +1,27 @@
+.item-list_position{
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  display: flex;
+  height: 72%;
+  flex-direction: column;
+}
+
+.item-list-header{
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  border-bottom: 1px solid;
+}
+
+.item-list-list{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  height: 535px;
+  overflow-y: auto;
+}
+
+.item-list-item{
+  margin-right: 20px;
+  margin-bottom: 20px;
+}

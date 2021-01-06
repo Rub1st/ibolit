@@ -1,0 +1,34 @@
+.enter_window{
+  display: flex;
+  justify-content: center;
+  height: 880px;
+}
+
+.enter_field{
+  margin: -20px 0 -24px 0;
+  width: 60%;
+  display: flex;
+  padding: 20px, 0;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid;
+  justify-content: stretch;
+  height: 104%;
+}
+
+.enter_label{
+  font-size: 50px;
+  margin: 200px 0 70px 0;
+}
+
+.enter_note{
+  font-size: 25px;
+}
+
+.enter_code{
+  margin: 25px 0 0 0;
+}
+
+.enter_password{
+  margin: 15px 0 70px 0;
+}

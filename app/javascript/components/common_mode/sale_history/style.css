@@ -1,0 +1,28 @@
+.sale-history_position{
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.sale-history-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 8%;
+  text-decoration: underline;
+  border-bottom: 1px solid;
+}
+
+.sale-history-list{
+  display: flex;
+  flex-direction: column;
+  height: 785px;
+  overflow-y: auto;
+  list-style: none;
+  padding-left: 5px;
+}
+
+.sale-history-item{
+  margin-bottom: 5px;
+}
